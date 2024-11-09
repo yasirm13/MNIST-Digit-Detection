@@ -71,5 +71,3 @@ plt.legend()
 
 plt.show()
 
-# Save the model
-model.save("high_accuracy_mnist_digit_recognition_model.h5")
